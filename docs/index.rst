@@ -14,7 +14,7 @@ TomoTwin
 Contribute
 ----------
 
-* Documentation: https://github.com/aniketkt/TomoTwin/tree/master/doc
+* Documentation: https://github.com/aniketkt/TomoTwin/tree/master/docs
 * Issue Tracker: https://github.com/aniketkt/TomoTwin/docs/issues
 * Source Code: https://github.com/aniketkt/TomoTwin/
 
